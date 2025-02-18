@@ -97,12 +97,5 @@ export const notesData = [
       createdAt: '2022-10-20T16:45:00.000Z',
       archived: false,
     },
-    {
-      id: 'notes-1234-abcd-5678',
-      title: 'Language Learning',
-      body: 'Practice Spanish vocabulary for 30 minutes every day.',
-      createdAt: '2022-10-28T08:00:20.120Z',
-      archived: false,
-    },
   ];
   
