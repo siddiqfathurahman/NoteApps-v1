@@ -90,12 +90,5 @@ export const notesData = [
       createdAt: '2022-10-12T12:15:30.890Z',
       archived: false,
     },
-    {
-      id: 'notes-98765-54321-12345',
-      title: 'Holiday Plans',
-      body: 'Research and plan for the upcoming holiday destination.',
-      createdAt: '2022-10-20T16:45:00.000Z',
-      archived: false,
-    },
   ];
   
