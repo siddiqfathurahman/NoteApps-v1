@@ -82,13 +82,6 @@ export const notesData = [
       body: 'Schedule a routine health checkup with the doctor.',
       createdAt: '2022-10-05T09:30:45.600Z',
       archived: false,
-    },
-    {
-      id: 'notes-qwerty-8765-4321',
-      title: 'Financial Goals',
-      body: '1. Create a monthly budget\n2. Save 20% of income\n3. Invest in a retirement fund.',
-      createdAt: '2022-10-12T12:15:30.890Z',
-      archived: false,
-    },
+    }
   ];
   
