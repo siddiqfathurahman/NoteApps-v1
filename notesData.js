@@ -75,13 +75,6 @@ export const notesData = [
       body: 'Complete project tasks by the deadline on October 1st.',
       createdAt: '2022-09-28T14:00:00.000Z',
       archived: false,
-    },
-    {
-      id: 'notes-9876-wxyz-1234',
-      title: 'Health Checkup',
-      body: 'Schedule a routine health checkup with the doctor.',
-      createdAt: '2022-10-05T09:30:45.600Z',
-      archived: false,
     }
   ];
   
