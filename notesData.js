@@ -69,12 +69,5 @@ export const notesData = [
       createdAt: '2022-09-20T17:10:12.987Z',
       archived: false,
     },
-    {
-      id: 'notes-5678-abcd-efgh',
-      title: 'Project Deadline',
-      body: 'Complete project tasks by the deadline on October 1st.',
-      createdAt: '2022-09-28T14:00:00.000Z',
-      archived: false,
-    }
   ];
   
