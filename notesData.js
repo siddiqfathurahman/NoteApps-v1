@@ -61,13 +61,6 @@ export const notesData = [
       body: '1. Paris, France\n2. Kyoto, Japan\n3. Santorini, Greece\n4. New York City, USA',
       createdAt: '2022-09-15T11:55:44.678Z',
       archived: false,
-    },
-    {
-      id: 'notes-asdfgh-123456',
-      title: 'Coding Projects',
-      body: '1. Build a personal website\n2. Create a mobile app\n3. Contribute to an open-source project',
-      createdAt: '2022-09-20T17:10:12.987Z',
-      archived: false,
-    },
+    }
   ];
   
