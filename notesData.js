@@ -54,13 +54,6 @@ export const notesData = [
       body: 'Write down three positive things that happened today and one thing to improve tomorrow.',
       createdAt: '2022-09-07T20:40:30.150Z',
       archived: false,
-    },
-    {
-      id: 'notes-poiuyt-987654',
-      title: 'Travel Bucket List',
-      body: '1. Paris, France\n2. Kyoto, Japan\n3. Santorini, Greece\n4. New York City, USA',
-      createdAt: '2022-09-15T11:55:44.678Z',
-      archived: false,
     }
   ];
   
