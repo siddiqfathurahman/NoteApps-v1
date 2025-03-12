@@ -47,13 +47,6 @@ export const notesData = [
       body: "1. 'The Alchemist' by Paulo Coelho\n2. '1984' by George Orwell\n3. 'To Kill a Mockingbird' by Harper Lee",
       createdAt: '2022-09-01T14:20:05.321Z',
       archived: false,
-    },
-    {
-      id: 'notes-zyxwv-54321',
-      title: 'Daily Reflections',
-      body: 'Write down three positive things that happened today and one thing to improve tomorrow.',
-      createdAt: '2022-09-07T20:40:30.150Z',
-      archived: false,
     }
   ];
   
