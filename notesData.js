@@ -40,13 +40,6 @@ export const notesData = [
       body: 'Monday: Cardio, Tuesday: Upper body, Wednesday: Rest, Thursday: Lower body, Friday: Cardio.',
       createdAt: '2022-08-25T09:15:17.890Z',
       archived: false,
-    },
-    {
-      id: 'notes-abcdef-987654',
-      title: 'Book Recommendations',
-      body: "1. 'The Alchemist' by Paulo Coelho\n2. '1984' by George Orwell\n3. 'To Kill a Mockingbird' by Harper Lee",
-      createdAt: '2022-09-01T14:20:05.321Z',
-      archived: false,
     }
   ];
   
