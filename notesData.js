@@ -33,13 +33,6 @@ export const notesData = [
       body: 'Ingredients: ground beef, tomatoes, onions, garlic, pasta. Steps:...',
       createdAt: '2022-08-20T12:30:40.200Z',
       archived: false,
-    },
-    {
-      id: 'notes-QwErTyUiOp',
-      title: 'Workout Routine',
-      body: 'Monday: Cardio, Tuesday: Upper body, Wednesday: Rest, Thursday: Lower body, Friday: Cardio.',
-      createdAt: '2022-08-25T09:15:17.890Z',
-      archived: false,
     }
   ];
   
