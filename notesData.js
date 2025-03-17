@@ -26,13 +26,6 @@ export const notesData = [
       body: 'Read two books per month, exercise three times a week, learn a new language.',
       createdAt: '2022-08-15T18:12:55.789Z',
       archived: false,
-    },
-    {
-      id: 'notes-LMN-456789',
-      title: 'Recipe: Spaghetti Bolognese',
-      body: 'Ingredients: ground beef, tomatoes, onions, garlic, pasta. Steps:...',
-      createdAt: '2022-08-20T12:30:40.200Z',
-      archived: false,
     }
   ];
   
