@@ -19,13 +19,6 @@ export const notesData = [
       body: 'Milk, eggs, bread, fruits, and vegetables.',
       createdAt: '2022-08-10T08:45:23.120Z',
       archived: false,
-    },
-    {
-      id: 'notes-1a-2b3c4d5e6f',
-      title: 'Personal Goals',
-      body: 'Read two books per month, exercise three times a week, learn a new language.',
-      createdAt: '2022-08-15T18:12:55.789Z',
-      archived: false,
     }
   ];
   
