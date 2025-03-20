@@ -12,13 +12,6 @@ export const notesData = [
       body: 'Discuss project updates and assign tasks for the upcoming week.',
       createdAt: '2022-08-05T15:30:00.000Z',
       archived: false,
-    },
-    {
-      id: 'notes-XyZ-789012345',
-      title: 'Shopping List',
-      body: 'Milk, eggs, bread, fruits, and vegetables.',
-      createdAt: '2022-08-10T08:45:23.120Z',
-      archived: false,
     }
   ];
   
